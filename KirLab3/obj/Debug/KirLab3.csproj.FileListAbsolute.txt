@@ -1,0 +1,9 @@
+C:\Users\РиК\Desktop\Programming\Projects\C#\KirLab3\KirLab3\bin\Debug\KirLab3.exe.config
+C:\Users\РиК\Desktop\Programming\Projects\C#\KirLab3\KirLab3\bin\Debug\KirLab3.exe
+C:\Users\РиК\Desktop\Programming\Projects\C#\KirLab3\KirLab3\bin\Debug\KirLab3.pdb
+C:\Users\РиК\Desktop\Programming\Projects\C#\KirLab3\KirLab3\obj\Debug\KirLab3.Properties.Resources.resources
+C:\Users\РиК\Desktop\Programming\Projects\C#\KirLab3\KirLab3\obj\Debug\KirLab3.Form1.resources
+C:\Users\РиК\Desktop\Programming\Projects\C#\KirLab3\KirLab3\obj\Debug\KirLab3.csproj.GenerateResource.Cache
+C:\Users\РиК\Desktop\Programming\Projects\C#\KirLab3\KirLab3\obj\Debug\KirLab3.csproj.CoreCompileInputs.cache
+C:\Users\РиК\Desktop\Programming\Projects\C#\KirLab3\KirLab3\obj\Debug\KirLab3.exe
+C:\Users\РиК\Desktop\Programming\Projects\C#\KirLab3\KirLab3\obj\Debug\KirLab3.pdb
